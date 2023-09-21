@@ -1,0 +1,10 @@
+instrucciones
+crear proyecto
+utilizar git para control de versiones
+realixzar cmbios
+llevar control de cambios
+subir a github
+
+
+colaborativo
+duu
